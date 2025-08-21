@@ -3,3 +3,5 @@
 Primeiro repositório do curso de "Git e GitHub"
 
 Repositório criado durante a exibição de uma aua gravada.
+
+Essa linha, adicionei diretamente no site.
