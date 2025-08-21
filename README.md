@@ -1,2 +1,5 @@
-# ola-mundo
-primeiro repositório do curso de "Git e GitHub"
+# olá, mundo!
+
+Primeiro repositório do curso de "Git e GitHub"
+
+Repositório criado durante a exibição de uma aua gravada.
